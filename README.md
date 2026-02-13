@@ -120,10 +120,10 @@ npm install
 Create a new file named `.env` in the root of your project and add the following content:
 
 ```env
-
+VITE_PUTER_WORKER_URL=""
 ```
 
-Replace the placeholder values with your real credentials. You can get these by signing up at: [**Example**](https://jsm.dev/example).
+Replace the placeholder values with your real credentials. You can get these by signing up at: [**Puter.com**](https://jsm.dev/roomify-puter).
 
 **Running the Project**
 
